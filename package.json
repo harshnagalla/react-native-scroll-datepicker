@@ -7,7 +7,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/react-native-scroll-datepicker.git"
+    "url": "https://github.com/harshnagalla/react-native-scroll-datepicker.git"
   },
   "author": "Your Name",
   "license": "MIT",
